@@ -1,0 +1,48 @@
+
+Prompt:
+Make me a charcter analysis report. In this report you should include Age, Voice, Walk, Physical Description, Occupation, Interests, Beliefs (Religous and otherwise), Ambitions, Favorite color, Favorite food, Favorite Song or Type of Music, Favorite (Play, Movie, Book, TV Show, Radio Show, pick one), Body lead, What animal are they most like, Some important items or images associated with the character, What is the character's relationship to the other characters in the play (Other character, relationship, feelings toward him or her), small character history in bullet points. If the information isn't there, be creative and makes something up that fits the character. The character you will be doing the analyis on is Obo.
+Response:
+## Character Analysis: Obo 
+
+**Age:** Mid-30s to early 40s.
+
+**Voice:**  Strident, forceful, often bordering on hysterical. Prone to pronouncements and theatrical pronouncements.
+
+**Walk:**  Energetic, almost frantic. Paces when agitated, which is often.
+
+**Physical Description:**  Unkempt, probably hasn't slept properly in weeks. Clothing is rumpled, possibly stained with coffee or takeout food.  Hair likely dishevelled.
+
+**Occupation:** Playwright.
+
+**Interests:** Theatre, obviously, but more specifically the world he has created in his play.  He's likely an avid consumer of murder mysteries (books, films, TV). He may have an academic interest in Agatha Christie.
+
+**Beliefs:**  Has a quasi-religious devotion to his artistic "vision" for the play, even if that vision is a thinly veiled rip-off of Agatha Christie.
+
+**Ambitions:**  To see his play succeed, critically and commercially.  He dreams of the prestige and (possibly) the financial rewards that a successful play could bring. Maybe even an HBO series.
+
+**Favorite Color:**  Crimson (like blood, symbolic of his murder mystery obsession)
+
+**Favorite Food:**  Whatever can be eaten quickly and mindlessly while he's working. Likely greasy takeout, cold pizza.
+
+**Favorite Show:**  Twin Peaks (dark, twisty, and influential) 
+
+**Body Lead:**  Head, always leaning forward, pushing his ideas into the space. 
+
+**Animal:**  A raccoon, scavenging for scraps of inspiration, prone to frantic energy and territoriality. 
+
+**Important Images:**  A tattered script covered in notes, a coffee-stained legal pad, a half-eaten box of donuts.
+
+**Relationships:**
+
+* **Lila:** Director, frustrated by his inflexibility and lack of experience, but also recognizes his raw talent (however derivative). Obo is both intimidated by and dismissive of her, clinging to his "vision." 
+* **Eleanor:** Actress playing Barbie.  Openly dismissive of Obo's play, which fuels his insecurity and anger. He loathes her, bordering on genuine hatred.
+* **Sammy:** Stage manager. Resents his presence backstage, as she sees playwrights as entitled and useless. Obo grudgingly respects her efficiency but mostly finds her annoying.
+* **The Actors:** A mix of pity and contempt. He sees their flaws but also needs them to bring his vision to life. 
+
+**Character History:**
+
+*  Obo has always been fascinated by murder mysteries, spending his youth devouring Agatha Christie novels and classic film noir.
+* He's worked on "Nine Little Indians" for years, pouring all his energy and savings into it.
+* This is his first play to be produced, making him both excited and incredibly insecure. 
+* He has a strained relationship with his family, who don't understand or support his artistic ambitions. 
+* He's likely burdened by debt, adding financial pressure to his artistic anxieties. 
